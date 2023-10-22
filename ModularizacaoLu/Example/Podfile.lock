@@ -1,0 +1,24 @@
+PODS:
+  - ModularizacaoLu (0.1.0):
+    - ProgressHUD
+  - ProgressHUD (2.70)
+
+DEPENDENCIES:
+  - ModularizacaoLu (from `../`)
+  - ProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - ProgressHUD
+
+EXTERNAL SOURCES:
+  ModularizacaoLu:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ModularizacaoLu: 679f236ad648b952697993420b14dfe07f9b7ee2
+  ProgressHUD: e603e8b8622c47d8818b9fb38b3cfe9d3e7ca421
+
+PODFILE CHECKSUM: 08f25880b335d9f09d173c1364381045225eb591
+
+COCOAPODS: 1.10.1
